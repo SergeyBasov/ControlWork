@@ -29,7 +29,7 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
-string[] arr1 = new string[7] { "Hello", "123", "При", "вет", "ики !!!", ":-))", ";-)"};
+string[] arr1 = new string[10] { "[", "1234567890", "123", "При", "вет", "ики !!!", ":-))))", ";-)", "Bay", "]" };
 string[] arr2 = new string[arr1.Length];
 
 // Печать заданного первого массива.
